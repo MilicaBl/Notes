@@ -1,0 +1,22 @@
+nav{
+    text-align: center;
+    color:brown
+}
+main{
+    padding:2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+button{
+    border-radius: 10%;
+    background-color: brown;
+    color: white;
+    width:6rem;
+    height: 2rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

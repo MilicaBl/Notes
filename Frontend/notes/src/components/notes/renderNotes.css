@@ -1,0 +1,28 @@
+#renderNotes {
+    display: flex;
+    justify-content: space-between;
+}
+
+#newNote {
+    padding: 3rem;
+}
+
+#newNote input {
+    width: 30rem;
+    height: 2rem;
+    border-radius: 5%;
+}
+
+#notes {
+    padding: 3rem;
+}
+
+#notes ul li {
+    list-style: none;
+    margin-top: 1rem;
+}
+
+#notes ul li a {
+    color: brown;
+    font-weight: bold;
+}
